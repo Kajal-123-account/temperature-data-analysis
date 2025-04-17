@@ -6,3 +6,8 @@ try:
 except Exception as error:
     print('Error loading the dataset. Check file path or encoding settings.')
     print(error)
+
+
+
+output:
+Data loaded successfully, sample records below:
